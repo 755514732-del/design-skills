@@ -1,34 +1,34 @@
 ---
 name: brand-website-builder
-description: 制作有品牌识别和视觉张力的可运行网站、品牌官网、作品集、产品展示及溯源网页；支持静态HTML原型、响应式实现、网站改版和比赛演示。用户要求做网站、网页代码或网页原型时使用；仅要求网站效果图片时按图片交付，不冒充已实现的网站。
+description: Build distinctive, working brand websites, portfolios, product showcases, and traceability pages. Support static HTML prototypes, responsive implementation, redesigns, and competition demos. Use for website creation, web code, or page prototypes; deliver a clearly labeled visual mockup when only a website image is requested.
 ---
 
-# 品牌网站设计
+# Brand Website Builder
 
-## 确定交付
-- 优先读取用户提供的品牌资料、作品、参考页面和当前项目。沿用已有明确要求，不重复询问。
-- 缺少品牌定位时先用已知内容推进；只有缺少关键资料导致无法执行才提问。没有指定技术栈时，小型静态演示优先采用 HTML/CSS/少量 JavaScript；已有工程沿用工程规范。
-- 用户要求“静态代码、比赛演示”时制作完整可运行原型，不扩展后台。用户只要代码片段时直接给精练代码，不强制建站。
-- 用户要求真正的网站时，优先读取并使用环境中的 Sites 技能与工具完成实现、预览及其支持的发布流程。不要以生成一张网站图片代替实现。用户只要视觉效果图时使用图像生成工具，并明确是效果示意。
-- 区分演示数据与真实信息，不编造客户评价、销量、认证、产品溯源记录或上线成果。没有后端的表单不得声称提交成功。
+## Define the deliverable
+- Read the supplied brand materials, artwork, references, and existing project first. Reuse established requirements without asking again.
+- Proceed with available context; ask only when missing information blocks meaningful work. Prefer HTML, CSS, and minimal JavaScript for small static demos unless a stack is specified. Follow the conventions of existing projects.
+- For static code or competition demos, build a complete runnable prototype without adding an unnecessary backend. For snippet requests, return concise code directly.
+- For working websites, read and use the environment's Sites skill and tools when available for implementation, preview, and supported publishing. Do not substitute a generated image for a working site. For visual-only requests, use image generation and label the result as a mockup.
+- Distinguish demonstration data from verified information. Do not invent testimonials, sales, certifications, traceability records, or launch results. Never report successful submission from a form without a working backend.
 
-## 提炼视觉方向
-- 从品牌定位与参考图提取字体气质、主辅色、图形语言、图文比例、版式节奏；延续参考风格而非抄袭无关品牌内容。
-- 用户偏好大气、主次鲜明、有张力的设计。使用大幅作品、强字号对比、错位叠压和有节奏的留白；让一个主要视觉成为首屏中心。
-- 避免整页等大卡片、空洞装饰、泛用蓝紫渐变、密集光效与无意义英文。不要把职规PPT蓝金配色固化为所有网站的默认风格。
-- 保留用户原创标志、包装与IP的识别特征。需要素材时按当前工具规则生成或检索；不要用生成素材冒充用户原作。
+## Establish the visual direction
+- Extract typography, primary and accent colors, graphic language, image-to-text balance, and layout rhythm from the brand and references. Continue the visual style without copying unrelated brand content.
+- Favor confident scale, clear hierarchy, and visual tension. Use large artwork, strong type contrast, offset overlaps, and purposeful whitespace; establish one dominant hero visual.
+- Avoid uniform card grids, empty decoration, generic blue-purple gradients, excessive glow, and meaningless English filler. Do not make the blue-and-gold career-presentation style the default for every website.
+- Preserve the identifying features of original logos, packaging, and characters. Generate or retrieve assets according to current tool rules; never present generated substitutes as the user's original work.
 
-## 实现
-1. 提炼一句核心价值、主要访问者及首要行动；组织首屏、核心作品或产品、必要说明与联系入口，按任务删减。
-2. 使用语义化结构、清晰的设计变量与可维护组件。小型静态站尽量降低依赖，确保资源路径可移植。
-3. 设计桌面和移动布局；检查中文断行、导航、图片比例、按钮尺寸与安全留白。
-4. 让可见控件产生合理行为：导航跳转、折叠展开、筛选、预览等。使用原生按钮和表单，支持键盘操作、可见焦点、图片替代文本，尊重减少动态效果设置。
-5. 原型涉及未接入的功能时清楚标明演示状态；不要求用户在原型输入真实敏感资料。
-6. 不随意修改原创截图中的文字与作品。为PPT制作网站截图时从实际运行页面截取，标明静态原型，不用图像生成截图冒充已实现功能。
+## Implement
+1. Define one core value proposition, the primary audience, and the main action. Organize the hero, key products or work, necessary explanations, and contact entry points; trim sections to fit the task.
+2. Use semantic structure, clear design tokens, and maintainable components. Minimize dependencies for small static sites and keep asset paths portable.
+3. Design desktop and mobile layouts. Check Chinese line breaks when applicable, navigation, image proportions, button sizes, and safe spacing.
+4. Give visible controls meaningful behavior: navigation, disclosure, filtering, or previews. Use native buttons and forms, keyboard support, visible focus, alternative text, and reduced-motion preferences.
+5. Clearly identify unconnected features as demos. Do not ask visitors to enter real sensitive information into prototypes.
+6. Preserve text and artwork in original screenshots. Capture presentation screenshots from the running page, label static prototypes, and never use generated screenshots as evidence of implemented functionality.
 
-## 检查与交付
-- 在环境允许时运行并查看至少桌面与移动两个宽度，修复横向溢出、遮挡、缺图、失效链接和控制台错误；测试主要交互。
-- 不为纯视觉微调编写机械测试；有业务计算、状态或数据逻辑时做针对性验证。
-- 当前环境不能预览或运行时如实说明，不声称已验证。
-- 交付可访问预览或源码文件，并简述实现范围、操作方法及尚未接入的功能。仅在用户要求截图时将截图作为交付物。
-- 遵循环境的保存规则：已有外部仓库项目保存在该项目；独立交付文件按当前文件保存流程持久化。不要把公开部署视为所有代码请求的必要步骤。
+## Check and deliver
+- When supported, run and inspect at least one desktop and one mobile width. Fix overflow, occlusion, missing assets, broken links, and console errors; test the main interactions.
+- Avoid mechanical tests for purely visual tweaks. Use focused verification for calculations, state transitions, or data logic.
+- State limitations honestly when the environment cannot run or preview the site. Do not claim unperformed checks.
+- Deliver an accessible preview or source files with a brief description of scope, usage, and unconnected features. Deliver screenshots only when requested.
+- Follow the environment's storage rules. Keep externally tracked projects in their repository and persist independent deliverables through the current file-saving workflow. Public deployment is not required for every code request.

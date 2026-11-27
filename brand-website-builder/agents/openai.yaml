@@ -1,7 +1,8 @@
 interface:
-  display_name: 品牌网站设计
-  short_description: 从品牌需求到可运行网页，兼顾视觉张力、响应式布局与真实交互
-  default_prompt: 使用 $brand-website-builder，根据我的品牌资料制作有视觉张力、可运行的响应式网站。
+  display_name: Brand Website Builder
+  short_description: Build distinctive, responsive brand websites and working demos.
+  default_prompt: Use $brand-website-builder to build a distinctive, responsive website
+    from my brand materials.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:

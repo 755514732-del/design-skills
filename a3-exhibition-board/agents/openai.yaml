@@ -1,7 +1,8 @@
 interface:
-  display_name: A3竞赛展板设计
-  short_description: 为品牌、包装和IP作品制作具有排版张力的A3竞赛展板与系列画面
-  default_prompt: 使用 $a3-exhibition-board，将我的作品制作成有排版张力的A3竞赛展板。
+  display_name: A3 Exhibition Board Designer
+  short_description: Create striking A3 boards for branding, packaging, and characters.
+  default_prompt: Use $a3-exhibition-board to turn my artwork into striking A3 competition
+    boards.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:

@@ -1,49 +1,49 @@
 ---
 name: a3-exhibition-board
-description: 设计品牌、VI、包装、IP、文创和毕业设计的A3竞赛展板，包括单张与多张系列、图片效果稿、精确文字排版和印刷PDF。用户要求A3展板、竞赛排版、设计说明板、毕业展板或系列作品展示时使用。
+description: Design A3 competition and exhibition boards for branding, visual identity, packaging, character families, cultural products, and graduation projects. Support individual boards, coordinated series, visual mockups, precise typography, and print PDFs. Use for A3 boards, competition layouts, design explanation panels, graduation displays, and portfolio presentation series.
 ---
 
-# A3竞赛展板设计
+# A3 Exhibition Board Designer
 
-## 选择交付路径
-- 阅读作品、参考图、赛事或课程要求，优先遵循明确的张数、尺寸、方向、文字与格式。默认 A3 竖版，297×420 mm；横版为420×297 mm。没有要求多张时先做一张。
-- 用户说“生成图片、只要图片、交作业”时直接用图像生成工具制作展板，优先展示构图与作品，不擅自改为可编辑PPT或印刷工程。
-- 用户要求文字精确、可编辑、刀版或印刷文件时采用确定性排版与相应文档/PDF工具；读取适用技能。使用图像生成制作必要的视觉素材，而非依赖它生成精确尺寸线、二维码或整篇正文。
-- 用户要求“先文字、先方案”时先提供内容结构；否则根据已有信息直接推进，避免不必要的确认。
-- 图片稿与可印刷文件区别说明只在影响交付时简短指出，不能把普通预览或低分辨率放大图称为原生超高清或印刷成品。
+## Select the delivery workflow
+- Read the artwork, references, and competition or course requirements. Prioritize specified quantities, dimensions, orientation, copy, and formats. Default to one portrait A3 board, 297 x 420 mm; landscape is 420 x 297 mm.
+- For image-only or visual assignment requests, use image generation directly and prioritize composition and artwork. Do not replace the requested image with an editable presentation or print-production project.
+- For exact text, editable files, dielines, or print files, use deterministic layout and appropriate document/PDF tools; read applicable skills. Generate supporting imagery as needed, rather than relying on image generation for exact dimension lines, QR codes, or long body copy.
+- If the user requests copy or a proposal first, provide the content structure first. Otherwise proceed from available information without unnecessary confirmation.
+- Explain the distinction between mockups and print-ready files only when it affects delivery. Do not describe ordinary previews or enlarged low-resolution images as native ultra-high-resolution or print-ready artwork.
 
-## 提取作品与叙事
-1. 确定品牌或作品名称、核心概念、设计方法、主要视觉、应用场景。
-2. 区分实际作品和示意内容；保护原创标志、角色形态、配色与包装信息。不因画面更满而擅自改变IP、加新品牌或捏造获奖及落地经历。
-3. 让设计说明解释具体选择：图形来源、造型逻辑、色彩作用、系列关联。避免空洞的大段“传承与创新”。
-4. 三张系列可按“概念与主形象 / 系统与细节 / 应用与场景”组织；根据已有素材调整，不复制同一版式和主图三次。
-5. 缺少照片或应用时，可制作明确的效果示意。不得将其标注为真实落地现场。三视图需保持结构一致，不能以三个随机角度代替正侧背视图。
+## Develop the story
+1. Identify the brand or project name, core concept, design method, main visual, and application context.
+2. Distinguish actual artwork from illustrative mockups. Preserve original logos, character forms, colors, and packaging information. Do not change characters, add brands, or fabricate awards and implementation history to fill space.
+3. Explain concrete choices: graphic sources, form logic, color functions, and relationships across the series. Avoid generic paragraphs about heritage and innovation.
+4. For three boards, consider concept and main identity / system and details / applications and scenes. Adapt to available material instead of repeating the same layout and hero three times.
+5. Create clearly labeled application mockups when real photographs are unavailable. Never label them as real installations. Keep front, side, and back character views structurally consistent; three arbitrary angles are not an orthographic set.
 
-## 构图规则
-- 坚持作品为主，选一个占明显优势的大主视觉，配中等辅助图和少量细节。可将主视觉占版面约45%–65%作为起点，按内容调整。
-- 通过跨栏、局部出框、尺度对比、错位叠压与连贯动线建立张力，保持标题、主体、辅助信息三个清晰层级。
-- 让背景服务作品：纯色、轻纹理、品牌图形或弱化场景皆可。不要把所有板子套成蓝金职规PPT，也不要堆密集发光线条制造设计感。
-- 避免等大的九宫格作品墙、平均分配的白卡片、大片无功能空白、重复样机和过多装饰。饱满不等于塞满。
-- 把标题视作视觉元素，保持中文可读与品牌气质一致；英文只做必要辅助，不能为了填空生成无意义词句。
-- 多张系列固定网格、标题位置、色彩逻辑与页码规则，但每张有自己的视觉焦点。
-- 包装展示需体现系列识别与实际产品关系；IP板需体现角色差异与共同家族语言；VI板需展示标志规则及有效应用，而非只铺样机。
+## Compose the boards
+- Let artwork lead. Establish a dominant main visual supported by medium-sized images and selected details. Use roughly 45-65 percent of the board for the main visual as a starting point, adjusting to the content.
+- Build visual tension through spanning columns, controlled edge breaks, scale contrast, offset overlaps, and a coherent reading path. Maintain clear title, main-content, and supporting-information levels.
+- Make backgrounds serve the work: flat color, light texture, brand graphics, or subdued scenes can all work. Do not apply a blue-and-gold career-presentation template to every board or use dense glowing lines as a substitute for composition.
+- Avoid uniform nine-image grids, equally weighted white cards, purposeless blank areas, repetitive mockups, and excessive decoration. Rich composition does not mean overcrowding.
+- Treat titles as visual elements while preserving readability and brand character. Keep Chinese legible when used; add English only when useful, never as meaningless filler.
+- Coordinate grids, title placement, color logic, and numbering across a series while giving each board its own focal point.
+- Show family recognition and product relationships for packaging; differences and shared visual language for character families; logo rules and effective applications for visual identity systems.
 
-## 图片生成流程
-- 将所选作品与风格参考送入图像工具，明确“哪些内容必须保持，哪些允许重新排版”。
-- 提示中指定A3比例、单张或系列、视觉中心、图文区域、原作文案、风格约束及清晰度。优先控制构图与角色一致性。
-- 多张要求“一张一张单独给”时分别输出，不能以一张拼图替代。可先建立第一张风格，再以其为后续参考。
-- 检查完整画面、标题可读性、作品一致性、边缘裁切及视觉密度；发现明显问题时修正，而非直接宣布完成。
-- 生成工具不能保证精确像素尺寸时，不谎称已满足。需要精确A3文件时再按规定比例排版输出，避免拉伸主体。
+## Generate visual boards
+- Supply selected artwork and style references to the image tool. Specify what must remain unchanged and what may be rearranged.
+- Specify A3 proportions, individual or series output, focal point, image and text areas, original copy, style constraints, and clarity. Prioritize composition and character consistency.
+- When separate images are requested, output each board individually rather than combining them into a collage. Establish the first board's style and use it as a reference for later boards.
+- Inspect the complete composition, title readability, artwork consistency, edge cropping, and visual density. Correct obvious problems before declaring completion.
+- Do not claim exact pixel dimensions that the generation tool cannot guarantee. For exact A3 deliverables, place the artwork into a correctly sized layout without stretching it.
 
-## 精确排版与印刷
-- A3竖版300 ppi约3508×4961 px，横版对调；应同时检查PDF物理页面尺寸，不能只修改DPI标签。
-- 出血与色彩按赛事或印厂要求设置；未给要求时可建议3 mm出血、关键内容距裁切线至少5 mm，不能宣称这是所有印厂标准。
-- 中文使用可嵌入字体，验证导出后字体、标点、断行与缺字；要求转曲时保留一份可编辑源稿。
-- 位图分辨率、透明度、色彩转换及刀线需按实际用途检查。没有印厂ICC条件时不宣称CMYK颜色准确匹配。
-- 刀版必须依据真实结构与尺寸绘制；缺少尺寸只可出概念示意，不可标记为可生产刀版。
-- 用相应工具渲染并检查导出PDF，确认没有多余页面、变形和裁切问题。
+## Prepare precise layouts and print files
+- Portrait A3 at 300 ppi is approximately 3508 x 4961 px; swap dimensions for landscape. Verify the PDF's physical page size as well as pixel dimensions; changing the DPI label alone is insufficient.
+- Follow the competition or printer's bleed and color requirements. If unspecified, suggest 3 mm bleed and at least 5 mm between essential content and trim, without claiming these are universal printer standards.
+- Use embeddable fonts for Chinese and verify exported characters, punctuation, and line breaks. Keep an editable source when outlines are requested.
+- Check bitmap resolution, transparency, color conversion, and cutting lines for the actual use case. Do not claim accurate CMYK matching without the printer's ICC conditions.
+- Build dielines from real structures and measurements. If dimensions are missing, deliver a clearly labeled concept diagram rather than a production-ready cutting template.
+- Render and inspect exported PDFs for extra pages, distortion, and clipping.
 
-## 交付
-- 按用户要求返回单张图片、独立系列图片或精确尺寸PDF/源文件；不默认制作ZIP。
-- 遵循当前环境保存规则，持久化文件并提供可打开的链接。图像工具自动保存的图片遵循其专用规则。
-- 简洁说明张数、方向与格式；必要时指出哪些是示意或需要替换的素材，不把未完成工作说成正式完稿。
+## Deliver
+- Return the requested individual image, separate series images, or precisely sized PDF/source files. Do not create a ZIP by default.
+- Follow current storage rules and provide accessible links for saved files. Follow the image tool's special handling rules for automatically saved images.
+- Briefly state quantity, orientation, and format. Identify illustrative or replacement assets where necessary; do not present unfinished work as final production artwork.

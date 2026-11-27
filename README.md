@@ -1,18 +1,18 @@
 # Design Skills
 
-面向品牌视觉设计的两个 AI 工作技能。
+Two AI skills for brand and visual design workflows.
 
-| 技能 | 功能 |
+| Skill | Purpose |
 | --- | --- |
-| [品牌网站设计](brand-website-builder/SKILL.md) | 品牌网站、作品集、产品网页与响应式静态原型 |
-| [A3竞赛展板设计](a3-exhibition-board/SKILL.md) | 品牌、包装、IP系列展板与图片/PDF交付 |
+| [Brand Website Builder](brand-website-builder/SKILL.md) | Brand websites, portfolios, product pages, and responsive static prototypes |
+| [A3 Exhibition Board Designer](a3-exhibition-board/SKILL.md) | Branding, packaging, and character presentation boards with image or PDF delivery |
 
-## 使用
+## Usage
 
-将所需技能文件夹复制到支持 Skills 的 AI 工具的技能目录中，按该工具的安装流程启用。技能需要对应环境提供网页实现、图片生成或PDF排版能力。
+Copy the desired skill folder into the skills directory of a compatible AI tool and follow its installation process. Website implementation, image generation, and PDF layout require the corresponding capabilities in the host environment.
 
-示例：
-- 使用 brand-website-builder，为我的品牌制作可运行的响应式网站。
-- 使用 a3-exhibition-board，将我的包装作品制作成三张独立A3竖版竞赛展板。
+Example prompts:
+- Use $brand-website-builder to build a working responsive website from my brand materials.
+- Use $a3-exhibition-board to turn my packaging artwork into three separate portrait A3 competition boards.
 
-技能包含 SKILL.md 工作规则、agents/openai.yaml 界面信息及图标素材。
+Each skill includes SKILL.md workflow instructions, agents/openai.yaml interface metadata, and an icon asset.
